@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aplaraujo/general-assets/refs/heads/main/cat-tecnologias.png" alt="Tecnologias">
+<img width="300" src="https://raw.githubusercontent.com/aplaraujo/general-assets/refs/heads/main/cat-tecnologias.png" alt="Tecnologias">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="30" alt="html5 logo" />
@@ -44,7 +44,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/aplaraujo/general-assets/refs/heads/main/cat-projetos.png" alt="Projetos">
+<img width="300" src="https://raw.githubusercontent.com/aplaraujo/general-assets/refs/heads/main/cat-projetos.png" alt="Projetos">
 
 <a href="https://github.com/aplaraujo/desafio-tecnico-simplify-backend-junior" target="_blank">Desafio sistema de gerenciamento de tarefas (To-Do List) - Simplify</a>
 </br>
